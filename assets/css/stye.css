@@ -1,0 +1,62 @@
+body {
+	background-image: url('../images/xmen.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 70px;
+	font-family: Georgia;
+}
+
+#startBtn {
+
+	border-style: none;
+	background: transparent;
+	width: 30%;
+	margin-top: 100px;
+	font-size: 70px;
+	font-weight: 900;
+	margin-left: 300px;
+
+}
+
+#submit {
+	padding: 30px 30px;
+	border-style: none;
+	color: white;
+	font-family: 'Bangers', cursive;
+	background: transparent;
+	font-size: 60px;
+	width: 100%;
+}
+
+#timer {
+	color: white;
+	font-family: 'Bangers', cursive;
+	background: transparent;
+	font-size: 60px;
+}
+
+#scores {
+	padding: 60px 30px;
+	color: white;
+	font-family: 'Bangers', cursive;
+	font-size: 60px;
+	font-weight: 900;
+}
+
+#questionForm{
+	color: white;
+	font-size: 30px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.choice {
+	font-size: 25px;
+	margin-right: 2em;
+}
